@@ -1,0 +1,16 @@
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCuentas.resources
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.dll
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Fachada.dll
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Fachada.pdb
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Data.dll
+D:\PROYECT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Data.pdb

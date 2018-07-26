@@ -1,0 +1,7 @@
+D:\PROYECT\WindowsFormsApplication1\Data\bin\Debug\Data.dll
+D:\PROYECT\WindowsFormsApplication1\Data\bin\Debug\Data.pdb
+D:\PROYECT\WindowsFormsApplication1\Data\bin\Debug\Entidades.dll
+D:\PROYECT\WindowsFormsApplication1\Data\bin\Debug\Entidades.pdb
+D:\PROYECT\WindowsFormsApplication1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\PROYECT\WindowsFormsApplication1\Data\obj\Debug\Data.dll
+D:\PROYECT\WindowsFormsApplication1\Data\obj\Debug\Data.pdb

@@ -1,0 +1,9 @@
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Fachada.dll
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Fachada.pdb
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Entidades.dll
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Entidades.pdb
+D:\PROYECT\WindowsFormsApplication1\Fachada\obj\Debug\Fachada.csprojResolveAssemblyReference.cache
+D:\PROYECT\WindowsFormsApplication1\Fachada\obj\Debug\Fachada.dll
+D:\PROYECT\WindowsFormsApplication1\Fachada\obj\Debug\Fachada.pdb
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Data.dll
+D:\PROYECT\WindowsFormsApplication1\Fachada\bin\Debug\Data.pdb
